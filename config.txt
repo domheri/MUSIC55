@@ -3,4 +3,4 @@ prefix=q
 game=Break | qplay
 stayinchannel=true
 songinstatus=false
-token=الكود بوت 
+token=NTQ1OTU0Mzk1MTU0NTQ2Njg4.D0hb6w.7d9pkwiaW0AOoSyr2Ix1rKOlzYE 
